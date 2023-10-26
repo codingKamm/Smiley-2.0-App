@@ -1,9 +1,320 @@
 {
   "info" : {
-    "version" : 1,
-    "author" : "xcode"
+    "author" : "xcode",
+    "version" : 1
   },
   "properties" : {
     "grid-size" : "regular"
-  }
+  },
+  "stickers" : [
+    {
+      "filename" : "50WhatIsThis760.sticker"
+    },
+    {
+      "filename" : "AIProudSalute760.sticker"
+    },
+    {
+      "filename" : "TFIsYouDoing.sticker"
+    },
+    {
+      "filename" : "EarnieLaugh.sticker"
+    },
+    {
+      "filename" : "StephanAGlassesLookDown.sticker"
+    },
+    {
+      "filename" : "BallinOuttacontrol.sticker"
+    },
+    {
+      "filename" : "JavellShocked.sticker"
+    },
+    {
+      "filename" : "LoveBWW.sticker"
+    },
+    {
+      "filename" : "SadaScratch.sticker"
+    },
+    {
+      "filename" : "NoseDig.sticker"
+    },
+    {
+      "filename" : "PrimeSuccess.sticker"
+    },
+    {
+      "filename" : "MJSeriousCigarLook.sticker"
+    },
+    {
+      "filename" : "XXXJordan.sticker"
+    },
+    {
+      "filename" : "MoneyGrab.sticker"
+    },
+    {
+      "filename" : "JordanCrying.sticker"
+    },
+    {
+      "filename" : "RandyJackOff.sticker"
+    },
+    {
+      "filename" : "ObamaRedTiePoint.sticker"
+    },
+    {
+      "filename" : "LbJCrownAway.sticker"
+    },
+    {
+      "filename" : "KarenSnitch.sticker"
+    },
+    {
+      "filename" : "BXBlaccYungsterInterview.sticker"
+    },
+    {
+      "filename" : "stephenASmithCowboyHatCigar.sticker"
+    },
+    {
+      "filename" : "SealLaugh.sticker"
+    },
+    {
+      "filename" : "CP3Mug.sticker"
+    },
+    {
+      "filename" : "BreakingWood.sticker"
+    },
+    {
+      "filename" : "IAlreadyGraduateShit.sticker"
+    },
+    {
+      "filename" : "LanceStephensonPhoneLook.sticker"
+    },
+    {
+      "filename" : "ShawHides.sticker"
+    },
+    {
+      "filename" : "ShannonSharp.sticker"
+    },
+    {
+      "filename" : "CrazyKobeLook.sticker"
+    },
+    {
+      "filename" : "CheetahLaugh.sticker"
+    },
+    {
+      "filename" : "Sainfield.sticker"
+    },
+    {
+      "filename" : "BigNasSalute.sticker"
+    },
+    {
+      "filename" : "KobeLaugh.sticker"
+    },
+    {
+      "filename" : "LamarCantBelieve.sticker"
+    },
+    {
+      "filename" : "GanstaGibbsStare.sticker"
+    },
+    {
+      "filename" : "SmellTheMoneyMayweather.sticker"
+    },
+    {
+      "filename" : "JordanUnimpressed.sticker"
+    },
+    {
+      "filename" : "ThreeMJLaiugh.sticker"
+    },
+    {
+      "filename" : "GreatNYBoobs.sticker"
+    },
+    {
+      "filename" : "MJLookDown.sticker"
+    },
+    {
+      "filename" : "NipDisgusted.sticker"
+    },
+    {
+      "filename" : "HOVCelebrateACEToast.sticker"
+    },
+    {
+      "filename" : "ChrisHassenLook 1.sticker"
+    },
+    {
+      "filename" : "CurryHotshot 1.sticker"
+    },
+    {
+      "filename" : "FloydChain 1.sticker"
+    },
+    {
+      "filename" : "WillSmithHoldL.sticker"
+    },
+    {
+      "filename" : "BXJRSmith3PointPose.sticker"
+    },
+    {
+      "filename" : "PlayOnPlair.sticker"
+    },
+    {
+      "filename" : "IllBeDamned.sticker"
+    },
+    {
+      "filename" : "QBNasChairDrink.sticker"
+    },
+    {
+      "filename" : "DenzelLaugh.sticker"
+    },
+    {
+      "filename" : "LaughingJordan.sticker"
+    },
+    {
+      "filename" : "KDLbJLaughing.sticker"
+    },
+    {
+      "filename" : "JuicyJGrillSmile.sticker"
+    },
+    {
+      "filename" : "JuicyPointApproval.sticker"
+    },
+    {
+      "filename" : "RossSip.sticker"
+    },
+    {
+      "filename" : "WSGConfused.sticker"
+    },
+    {
+      "filename" : "TheRockSmellSuccess.sticker"
+    },
+    {
+      "filename" : "ObeezyThumbsUp.sticker"
+    },
+    {
+      "filename" : "BrodieLeanBack.sticker"
+    },
+    {
+      "filename" : "BossieLook.sticker"
+    },
+    {
+      "filename" : "CurryLaugh.sticker"
+    },
+    {
+      "filename" : "PreachFuture.sticker"
+    },
+    {
+      "filename" : "Hotep.sticker"
+    },
+    {
+      "filename" : "JimmySmirk.sticker"
+    },
+    {
+      "filename" : "BoosieChcikenEatLook.sticker"
+    },
+    {
+      "filename" : "SugeJailLook.sticker"
+    },
+    {
+      "filename" : "PlayaCasll.sticker"
+    },
+    {
+      "filename" : "PimpLook.sticker"
+    },
+    {
+      "filename" : "IllAllowIt.sticker"
+    },
+    {
+      "filename" : "WiggaPlease.sticker"
+    },
+    {
+      "filename" : "JordanCigarSmoke.sticker"
+    },
+    {
+      "filename" : "DameTime.sticker"
+    },
+    {
+      "filename" : "DaveKKKBlindMaskReveal.sticker"
+    },
+    {
+      "filename" : "ScaredStraightComeon.sticker"
+    },
+    {
+      "filename" : "ImpressedLbJ.sticker"
+    },
+    {
+      "filename" : "JRosePray.sticker"
+    },
+    {
+      "filename" : "MJStare.sticker"
+    },
+    {
+      "filename" : "LbJCantBelieve2.sticker"
+    },
+    {
+      "filename" : "Can;tBelieveBlkJesus.sticker"
+    },
+    {
+      "filename" : "StaleGingerFace.sticker"
+    },
+    {
+      "filename" : "NasProudFist.sticker"
+    },
+    {
+      "filename" : "NORE.sticker"
+    },
+    {
+      "filename" : "DrinkLook.sticker"
+    },
+    {
+      "filename" : "PlayoffPSuitSnap.sticker"
+    },
+    {
+      "filename" : "DWadeCantBelieveit.sticker"
+    },
+    {
+      "filename" : "MAGASeal.sticker"
+    },
+    {
+      "filename" : "FuckUHoldBack.sticker"
+    },
+    {
+      "filename" : "BudLookUp.sticker"
+    },
+    {
+      "filename" : "YeCry.sticker"
+    },
+    {
+      "filename" : "WinslowLook.sticker"
+    },
+    {
+      "filename" : "WhiteGuyJacketHide.sticker"
+    },
+    {
+      "filename" : "NOREDrinkSmile.sticker"
+    },
+    {
+      "filename" : "GoatStairUp.sticker"
+    },
+    {
+      "filename" : "NoThanksDucan.sticker"
+    },
+    {
+      "filename" : "LbJGoodLook.sticker"
+    },
+    {
+      "filename" : "BraidedStair.sticker"
+    },
+    {
+      "filename" : "PastorSnoopPower.sticker"
+    },
+    {
+      "filename" : "TimblandAgrees.sticker"
+    },
+    {
+      "filename" : "NoahDisappointment.sticker"
+    },
+    {
+      "filename" : "LbJCantBelieve.sticker"
+    },
+    {
+      "filename" : "DrakePoint.sticker"
+    },
+    {
+      "filename" : "UncleBum.sticker"
+    }
+  ]
 }
